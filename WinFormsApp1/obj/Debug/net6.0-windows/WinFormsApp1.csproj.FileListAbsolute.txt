@@ -1,0 +1,100 @@
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\itextsharp.dll
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.home.resources
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.hamburguesas.resources
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.acompaniamientos.resources
+D:\coding\poo\30octubre - winforms\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.bebidas.resources
+D:\descargas\final\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\descargas\final\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\descargas\final\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\descargas\final\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\descargas\final\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\descargas\final\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\descargas\final\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\itextsharp.dll
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.acompaniamientos.resources
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.bebidas.resources
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.hamburguesas.resources
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.home.resources
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\descargas\final\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\itextsharp.dll
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.acompaniamientos.resources
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.bebidas.resources
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.hamburguesas.resources
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.home.resources
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\descargas\final\asd\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.acompaniamientos.resources
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.bebidas.resources
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.hamburguesas.resources
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.home.resources
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.login.resources
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
